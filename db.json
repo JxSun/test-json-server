@@ -1,7 +1,7 @@
 {
 	"japan": {
-		"response" : 200,
-		"cities":[
+		"response": 200,
+		"cities": [
 			{
 				"image": "https://en.wikipedia.org/wiki/Tokyo#/media/File:TokyoMetropolitanGovernmentOffice.jpg",
 				"title": "Tokyo",
@@ -51,16 +51,16 @@
 			}
 		]
 	},
-	"taiwan":{
-		"response" : 200,
-		"cities":[
+	"taiwan": {
+		"response": 200,
+		"cities": [
 			{
 				"image": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan#/media/File:Taiwan_ShihMan_Reservoir.JPG"
 			},
 			{
 				"image": "https://en.wikipedia.org/wiki/Taipei#/media/File:Chiang_Kai-shek_memorial_amk.jpg",
 				"title": "Taipei",
-				"description": "Taipei, officially known as Taipei City, is the capital and a special municipality of Taiwan (officially known as the Republic of China, "ROC")."
+				"description": "Taipei, officially known as Taipei City, is the capital and a special municipality of Taiwan."
 			},
 			{
 				"image": "https://en.wikipedia.org/wiki/Kaohsiung#/media/File:Zuoying_%26_Gushan_Skyline_October_2017.jpg",
@@ -70,7 +70,7 @@
 			{
 				"image": "https://en.wikipedia.org/wiki/Tainan#/media/File:Tainan_Taiwan_Fort-Zeelandia-01.jpg",
 				"title": "Tainan",
-				"description": "Tainan is the oldest city on the island of Taiwan and also commonly known as the "Capital City" for its over 200 years of history as the capital of Taiwan under Koxinga and later Qing dynasty rule."
+				"description": "Tainan is the oldest city on the island of Taiwan and also commonly known as the Capital City for its over 200 years of history as the capital of Taiwan under Koxinga and later Qing dynasty rule."
 			},
 			{
 				"image": "https://en.wikipedia.org/wiki/Chiayi#/media/File:%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C.jpg"
@@ -83,13 +83,13 @@
 			{
 				"image": "https://en.wikipedia.org/wiki/Hsinchu#/media/File:%E6%96%B0%E7%AB%B9%E6%BC%81%E6%B8%AF%E7%A2%BC%E9%A0%AD%E5%8D%80.jpg",
 				"title": "Hsinchu",
-				"description": "Hsinchu is popularly nicknamed "The Windy City" for its windy climate. Hsinchu is administered as a provincial city within Taiwan."
+				"description": "Hsinchu is popularly nicknamed The Windy City for its windy climate. Hsinchu is administered as a provincial city within Taiwan."
 			}
 		]
 	},
-	"china":{
-		"response" : 200,
-		"cities":[
+	"china": {
+		"response": 200,
+		"cities": [
 			{
 				"image": "https://en.wikipedia.org/wiki/Beijing#/media/File:BeijingWatchTower.jpg",
 				"title": "Beijing",
@@ -104,7 +104,7 @@
 			{
 				"image": "https://en.wikipedia.org/wiki/Chongqing#/media/File:Night_view_of_Chongqing_CBD_at_the_angle_across_Yangtze_river.jpg",
 				"title": "Chongqing",
-				"description": "Chongqing has a significant history and culture and serves as the economic centre of the upstream Yangtze basin. It is a major manufacturing centre and transportation hub; a July 2012 report by the Economist Intelligence Unit described it as one of China's "30 emerging megacities"."
+				"description": "Chongqing has a significant history and culture and serves as the economic centre of the upstream Yangtze basin. It is a major manufacturing centre and transportation hub; a July 2012 report by the Economist Intelligence Unit described it as one of China's 30 emerging megacities."
 			},
 			{
 				"image": "https://en.wikipedia.org/wiki/Shanghai#/media/File:Pudong_district_roads_traffic_skyscrapers,_Shanghai.JPG",
@@ -130,10 +130,10 @@
 			{
 				"image": "https://en.wikipedia.org/wiki/Guilin#/media/File:%E4%BC%8F%E6%B3%A2%E5%B1%B1.JPG",
 				"title": "Guilin",
-				"description": "It is situated on the west bank of the Li River and borders Hunan to the north. Its name means "Forest of Sweet Osmanthus", owing to the large number of fragrant sweet osmanthus trees located in the city."
+				"description": "It is situated on the west bank of the Li River and borders Hunan to the north. Its name means Forest of Sweet Osmanthus, owing to the large number of fragrant sweet osmanthus trees located in the city."
 			},
 			{
-				"https://en.wikipedia.org/wiki/Xuchang#/media/File:Xuchang_Xuzhou_Fu_Yamen_2013.09.01_13-40-31.jpg"
+				"image": "https://en.wikipedia.org/wiki/Xuchang#/media/File:Xuchang_Xuzhou_Fu_Yamen_2013.09.01_13-40-31.jpg"
 			},
 			{
 				"image": "https://en.wikipedia.org/wiki/Nanjing#/media/File:%D0%9D%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D0%B3-%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0.JPG",
