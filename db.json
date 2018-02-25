@@ -51,39 +51,39 @@
 			}
 		]
 	},
-	"taiwan": {
+	"uk": {
 		"response": 200,
 		"cities": [
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Taiwan_ShihMan_Reservoir.JPG"
+				"image": "https://upload.wikimedia.org/wikipedia/commons/6/62/ISS_Birmingham_at_night.jpg"
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/1920px-Chiang_Kai-shek_memorial_amk.jpg",
-				"title": "Taipei",
-				"description": "Taipei, officially known as Taipei City, is the capital and a special municipality of Taiwan."
+				"image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Royal.crescent.aerial.bath.arp.jpg",
+				"title": "Bath",
+				"description": "Bath is the largest city in the ceremonial county of Somerset, England, known for its Roman-built baths. In 2011, the population was 88,859."
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zuoying_%26_Gushan_Skyline_October_2017.jpg/2560px-Zuoying_%26_Gushan_Skyline_October_2017.jpg",
-				"title": "Kaohsiung",
-				"description": "Kaohsiung City is a special municipality located in southern-western Taiwan and facing the Taiwan Strait."
+				"image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/KingsCollegeChapelWest.jpg",
+				"title": "Cambridge",
+				"description": "Cambridge is home to the world-renowned University of Cambridge, which was founded in 1209."
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tainan_Taiwan_Fort-Zeelandia-01.jpg/1920px-Tainan_Taiwan_Fort-Zeelandia-01.jpg",
-				"title": "Tainan",
-				"description": "Tainan is the oldest city on the island of Taiwan and also commonly known as the Capital City for its over 200 years of history as the capital of Taiwan under Koxinga and later Qing dynasty rule."
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LpoolTownHallOM.jpg/1920px-LpoolTownHallOM.jpg",
+				"title": "Liverpool",
+				"description": "Liverpool is located on the eastern side of the Mersey Estuary, and historically lay within the ancient hundred of West Derby in the south west of the county of Lancashire."
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C.jpg"
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Quayside%2C_Newcastle_upon_Tyne.jpg/1920px-Quayside%2C_Newcastle_upon_Tyne.jpg"
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Taichung_Chishan_Gate.JPG",
-				"title": "Taichung",
-				"description": "Located in the Taichung Basin in central Taiwan, the name of the city was created under Japanese rule, and became a major economic and cultural hub."
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tower_Bridge_Olympics_Summer_2012_-_panoramio.jpg/1920px-Tower_Bridge_Olympics_Summer_2012_-_panoramio.jpg",
+				"title": "London",
+				"description": "London is the capital and most populous city of both England and the United Kingdom."
 			},
 			{
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%E6%96%B0%E7%AB%B9%E6%BC%81%E6%B8%AF%E7%A2%BC%E9%A0%AD%E5%8D%80.jpg/2560px-%E6%96%B0%E7%AB%B9%E6%BC%81%E6%B8%AF%E7%A2%BC%E9%A0%AD%E5%8D%80.jpg",
-				"title": "Hsinchu",
-				"description": "Hsinchu is popularly nicknamed The Windy City for its windy climate. Hsinchu is administered as a provincial city within Taiwan."
+				"image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Manchester_Town_Hall_from_Lloyd_St.jpg",
+				"title": "Manchester",
+				"description": "Manchester is fringed by the Cheshire Plain to the south, the Pennines to the north and east and an arc of towns with which it forms a continuous conurbation."
 			}
 		]
 	},
